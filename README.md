@@ -22,9 +22,11 @@ Set your credentials to the environment variables (depending on your OS): `SECRE
 
 ## Running:
 
-`npm run order [schnitzel]`
+`npm run order [food]`
 
 ...to order your favorite food (if available) for the next day. Enter one string for the food choice as parameter. (Default: Eiernockerl)
+
+Example: `npm run order schnitzel`
 
 ---
 
